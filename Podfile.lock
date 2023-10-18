@@ -1,0 +1,16 @@
+PODS:
+  - lame (1.1.0)
+
+DEPENDENCIES:
+  - lame (= 1.1.0)
+
+SPEC REPOS:
+  trunk:
+    - lame
+
+SPEC CHECKSUMS:
+  lame: 4761fc34a97c3c974df676c55647d6733574cf4d
+
+PODFILE CHECKSUM: 6a4cd51d4d4914dd91bf4d1dd893903e461ba700
+
+COCOAPODS: 1.11.2
